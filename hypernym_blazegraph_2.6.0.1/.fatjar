@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Apr 14 12:58:38 CST 2016
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=/home/ceaserz/Desktop/local_hypernym_blazegraph_2.6.0.1_fat.jar
+manifest.mergeall=true
+manifest.mainclass=nudt.ceaserz.mapreduce.HypernymDriver
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=
